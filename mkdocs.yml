@@ -1,8 +1,0 @@
-site_name: Lernfeld 15
-nav:
-  - index.md
-theme: material
-markdown_extensions:
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
